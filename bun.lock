@@ -50,7 +50,7 @@
         "frimousse": "^0.3.0",
         "lefthook": "^1.11.3",
         "lucide-react": "^0.475.0",
-        "meru-api-client": "^2.0.0",
+        "meru-api-client": "^2.0.2",
         "node-machine-id": "^1.1.12",
         "react": "^19.1.1",
         "react-dom": "^19.1.1",
@@ -1108,7 +1108,7 @@
 
     "mdast-util-to-string": ["mdast-util-to-string@4.0.0", "", { "dependencies": { "@types/mdast": "^4.0.0" } }, "sha512-0H44vDimn51F0YwvxSJSm0eCDOJTRlmN0R1yBh4HLj9wiV1Dn0QoXGbvFAWj2hSItVTlCmBF1hqKlIyUBVFLPg=="],
 
-    "meru-api-client": ["meru-api-client@2.0.0", "", { "dependencies": { "@orpc/client": "^1.13.1", "@orpc/contract": "^1.13.1", "zod": "^3.24.2" } }, "sha512-AsRfNHSQwoN5mG+jo3rIE7dM8/Jg24WqYEhtIXfWi2J6vVZYAeNIqln/Xba5l8ZYC9ubeYFacp3+Uxo9Fusxxg=="],
+    "meru-api-client": ["meru-api-client@2.0.2", "", { "dependencies": { "@orpc/client": "^1.13.1", "@orpc/contract": "^1.13.1", "zod": "^3.24.2" } }, "sha512-HF2ctFwn3uGoncuuImc3kfwV9elIxEdz6EW6e/PrkJwtVziX5SdO3o0ZOhKw34iZKqtc6y3Ve8B9dvP77PYWgw=="],
 
     "micromark": ["micromark@4.0.2", "", { "dependencies": { "@types/debug": "^4.0.0", "debug": "^4.0.0", "decode-named-character-reference": "^1.0.0", "devlop": "^1.0.0", "micromark-core-commonmark": "^2.0.0", "micromark-factory-space": "^2.0.0", "micromark-util-character": "^2.0.0", "micromark-util-chunked": "^2.0.0", "micromark-util-combine-extensions": "^2.0.0", "micromark-util-decode-numeric-character-reference": "^2.0.0", "micromark-util-encode": "^2.0.0", "micromark-util-normalize-identifier": "^2.0.0", "micromark-util-resolve-all": "^2.0.0", "micromark-util-sanitize-uri": "^2.0.0", "micromark-util-subtokenize": "^2.0.0", "micromark-util-symbol": "^2.0.0", "micromark-util-types": "^2.0.0" } }, "sha512-zpe98Q6kvavpCr1NPVSCMebCKfD7CA2NqZ+rykeNhONIJBpc1tFKt9hucLGwha3jNTNI8lHpctWJWoimVF4PfA=="],
 
